@@ -19,6 +19,5 @@ img {
 
 h1 {
   font-weight: bold;
-  font-style: italic;
-  text-decoration: underline;
+  font-size: 2rem;
 }
