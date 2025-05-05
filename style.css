@@ -12,3 +12,7 @@ html {
   margin-right: auto;
   margin-left: auto;
 }
+
+img {
+  width: 18rem;
+}
